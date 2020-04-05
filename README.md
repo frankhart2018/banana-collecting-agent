@@ -82,5 +82,6 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
 ## Algorithms used
 
 <ol>
-  <li>Multi Layered </li>
+  <li>Multi Layered Perceptron.</li>
+  <li>Deep Q-Network. To learn more about this algorithm you can read the original paper by DeepMind: <a href='https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf'> DQN Paper</a>
 </ol>
