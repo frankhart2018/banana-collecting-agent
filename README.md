@@ -6,9 +6,11 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
 
 <ol>
   <li>Clone the repository:
+  
   ```console
   user@programer:~$ git clone https://github.com/frankhart2018/banana-collecting-agent
   ```
+  
   </li>
   <li>Download your OS specific unity environment:
     <ul>
