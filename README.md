@@ -1,6 +1,6 @@
-# Banana Collecting Agent
+# Banana Collecting Agent - Project-1 Navigation
 
-This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>. This model was trained on a MacBook Air 2017 with 8GB RAM and Intel core i5 processor.
+This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b> and is called <b>Project-1 Navigation</b>. This model was trained on a MacBook Air 2017 with 8GB RAM and Intel core i5 processor.
 
 ## Description
 
