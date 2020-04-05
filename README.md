@@ -1,6 +1,10 @@
-# banana-collecting-agent
+# Banana Collecting Agent
 
 This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
+
+## Description
+
+The project involves an agent that is tasked to collect as much yellow bananas as possible ignoring the blue bananas. The environment is created using Unity and can be found in Unity ML Agents. On collecting a yellow banana the agent gets a reward of <b>+1</b> and on collecting a blue banana the agnet is given a reward (or punishment) of <b>-1</b>
 
 ## Steps to run
 
