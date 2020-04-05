@@ -51,6 +51,7 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>.
     </ul>
   </li>
   
+  <li>Update the banana app location according to your OS in the mentioned placed.</li>
   <li>Unzip the downloaded environment file</li><br>
   <li>If you prefer using jupyter notebook then launch the jupyter notebook instance:<br><br>
   
