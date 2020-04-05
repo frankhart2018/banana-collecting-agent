@@ -17,6 +17,12 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
 
 <p>For this task I used a Deep Q Network which takes as input the current 37 dimensional state and passed through <b>two (2)</b> layers of multi layered perceptron with <b>ReLU</b> activation followed by an output layer which gives the action-values for all the possible actions.</p>
 
+## Demo
+
+<p align='center'>
+  ![Demonstration of the agent](images/demo.gif)
+</p>
+
 ## Steps to run
 
 <ol>
