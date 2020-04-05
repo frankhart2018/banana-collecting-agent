@@ -35,3 +35,14 @@
 | Epsilon (<b>ε</b>)       | 1.0    | For epsilon-greedy action selection                       |
 | Epsilon decay rate       | 0.995  | Rate by which epsilon decays after every episode          |
 | Epsilon minimum          | 0.01   | The minimum value of epsilon                              |
+
+## Future work
+
+<p>The following algorithms can be considered for further development of this agent:</p>
+
+<ul>
+  <li>Double DQN</li>
+  <li>Duelling DQN</li>
+  <li>Prioritized Experience Replay DQN</li>
+  <li>Rainbow</li>
+</ul>
