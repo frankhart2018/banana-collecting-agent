@@ -88,4 +88,8 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
 
 ## Model description
 
+<p>The Q-Network has three dense (or fully connected layers). The first two layers have <b>64</b> nodes activated with <b>ReLU</b> activation function. The final (output layer) has <b>4</b> nodes and is activated with linear activation (or no activation at all). This network takes in as input the <b>37</b> dimensional current state and gives as output <b>4</b> action-values corresponding to the possible actions that the agent can take.</p>
 
+<p>The following image provides a pictorial representation of the Q-Network model:</p>
+
+![Pictorial representation of Q-Network](images/q-network.png)
