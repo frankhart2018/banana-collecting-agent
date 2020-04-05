@@ -33,13 +33,13 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
   
   In case you like to run a python script use:<br>
   
-  :arrow_right: For re-training the agent type:<br><br>
+  :arrow_right: For re-training the agent type:<br>
   
   ```console
   user@programmer:~$ python train.py
   ```
   
-  :arrow_right: For testing the agent use:<br><br>
+  :arrow_right: For testing the agent use:<br>
   
   ```console
   user@programmer:~$ python test.py
