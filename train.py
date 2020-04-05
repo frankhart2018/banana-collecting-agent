@@ -6,7 +6,7 @@ import torch
 import matplotlib.pyplot as plt
 
 # Instantiate Banana environment
-env = UnityEnvironment(file_name="Banana.app")
+env = UnityEnvironment(file_name="Banana.app") # Update the app name/location if not using macOS
 
 # Examine action and state space
 # Get the default brain

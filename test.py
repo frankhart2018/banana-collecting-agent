@@ -7,7 +7,7 @@ import random
 from model import QNetwork
 
 # Load the environment
-env = UnityEnvironment(file_name="Banana.app")
+env = UnityEnvironment(file_name="Banana.app") # Update the app name/location if not using macOS
 
 brain_name = env.brain_names[0]
 brain = env.brains[brain_name]
