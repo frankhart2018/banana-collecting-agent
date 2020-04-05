@@ -22,6 +22,17 @@
   <img src='images/plot.png' alt='Plot for score v/s episode number' width='650'>
 </p>
 
+## Performance
+
+<p>The model was trained on MacBook Air 2017 with 8GB RAM and Intel Core i5 Processor.</p>
+
+<ul>
+  <li><b>Average time per episode</b>: 1.6s</li>
+  <li><b>Total time for training agent</b>: 892.9s</li>
+  <li><b>Number of episodes required to solve the environment</b>: 411 episodes</li>
+  <li><b>Final score of the agent</b>: 13.10</li>
+</ul>
+
 ## Hyperparameters used
 
 | Hyperparameter           | Value  | Description                                               |
