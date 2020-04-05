@@ -99,5 +99,5 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
 <p>The following image provides the plot for score v/s episode number:</p>
 
 <p align='center'>
-  <img src='images/plot.png' alt='Plot for score v/s episode number'>
+  <img src='images/plot.png' alt='Plot for score v/s episode number' width='150'>
 </p>
