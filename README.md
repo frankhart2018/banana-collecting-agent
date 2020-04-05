@@ -20,8 +20,9 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
 ## Demo
 
 <p align='center'>
-  ![](images/demo.gif)
+  <img src='images/demo.gif' alt='Demonstration of the trained agent'>
 </p>
+
 
 ## Steps to run
 
