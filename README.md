@@ -20,6 +20,18 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
       <li>Windows (64 bit): <a href='https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip'>click here </a></li><br>
     </ul>
   </li>
+  
+  <li>Unzip the downloaded environment file</li>
+  <li>If you prefer using jupyter notebook then launch the jupyter notebook instance:
+  
+  ```console
+  user@programmer:~$ jupyter-notebook
+  ```
+  
+  :arrow_right: - For training use <b>Banana Collecting Agent.ipynb</b><br>
+  :arrow_right: - For testing use <b>Banana Agent Tester.ipynb</b><br>
+  
+  </li>
 </ol>
 
 ## Technologies used
