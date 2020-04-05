@@ -95,3 +95,9 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
 <p align='center'>
   <img src='images/q-network.png' alt='Pictorial representation of Q-Network'>
 </p>
+
+<p>The following image provides the plot for score v/s episode number:</p>
+
+<p align='center'>
+  <img src='images/plot.png' alt='Plot for score v/s episode number'>
+</p>
