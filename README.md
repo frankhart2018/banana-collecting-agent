@@ -5,7 +5,7 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
 ## Steps to run
 
 <ol>
-  <li>Clone the repository:
+  <li>Clone the repository:<br>
   
   ```console
   user@programer:~$ git clone https://github.com/frankhart2018/banana-collecting-agent
@@ -22,7 +22,7 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
   </li>
   
   <li>Unzip the downloaded environment file</li>
-  <li>If you prefer using jupyter notebook then launch the jupyter notebook instance:
+  <li>If you prefer using jupyter notebook then launch the jupyter notebook instance:<br>
   
   ```console
   user@programmer:~$ jupyter-notebook
