@@ -11,7 +11,8 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
   user@programer:~$ git clone https://github.com/frankhart2018/banana-collecting-agent
   ```
   
-  </li>Install the requirements:
+  </li>
+  <li>Install the requirements:
   
   ```console
   user@programmer:~$ pip install requirements.txt
