@@ -83,5 +83,5 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
 
 <ol>
   <li>Multi Layered Perceptron.</li>
-  <li>Deep Q-Network. To learn more about this algorithm you can read the original paper by DeepMind: <a href='https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf'> DQN Paper</a>
+  <li>Deep Q-Network. To learn more about this algorithm you can read the original paper by <b>DeepMind</b>: <a href='https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf'>Human-level control through deep reinforcement learning</a></li>
 </ol>
