@@ -13,6 +13,8 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
   <b>3</b> - turn right <br><br>
 </p>
 
+<p>The agent's task is episodic and is solved when the agent gets atleast <b>+13</b> over consecutive <b>100</b> episodes.</p>
+
 ## Steps to run
 
 <ol>
