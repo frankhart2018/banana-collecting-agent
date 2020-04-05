@@ -21,14 +21,14 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
     </ul>
   </li>
   
-  <li>Unzip the downloaded environment file</li>
+  <li>Unzip the downloaded environment file</li><br>
   <li>If you prefer using jupyter notebook then launch the jupyter notebook instance:<br><br>
   
   ```console
   user@programmer:~$ jupyter-notebook
   ```
   
-  :arrow_right: - For training use <b>Banana Collecting Agent.ipynb</b><br>
+  :arrow_right: - For training use <b>Banana Collecting Agent.ipynb</b><br><br>
   :arrow_right: - For testing use <b>Banana Agent Tester.ipynb</b><br>
   
   </li>
