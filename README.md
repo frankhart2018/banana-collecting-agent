@@ -23,6 +23,7 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
   <img src='images/demo.gif' alt='Demonstration of the trained agent'>
 </p>
 
+<p>The thing I truly loved is how the agent knows it is stuck and chooses action back to get out of the state :heart:.</p>
 
 ## Steps to run
 
