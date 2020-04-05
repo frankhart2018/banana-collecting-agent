@@ -20,7 +20,7 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
 ## Demo
 
 <p align='center'>
-  ![Demonstration of the agent](images/demo.gif)
+  ![](images/demo.gif)
 </p>
 
 ## Steps to run
