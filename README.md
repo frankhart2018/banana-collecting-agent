@@ -4,7 +4,14 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
 
 ## Description
 
-The project involves an agent that is tasked to collect as much yellow bananas as possible ignoring the blue bananas. The environment is created using Unity and can be found in Unity ML Agents. On collecting a yellow banana the agent gets a reward of <b>+1</b> and on collecting a blue banana the agnet is given a reward (or punishment) of <b>-1</b>
+<p>The project involves an agent that is tasked to collect as much yellow bananas as possible ignoring the blue bananas. The environment is created using Unity and can be found in Unity ML Agents. On collecting a yellow banana the agent gets a reward of <b>+1</b> and on collecting a blue banana the agnet is given a reward (or punishment) of <b>-1</b>.</p>
+
+<p>The state space has <b>37</b> dimensions and the agent can perform <b>4</b> different actions:<br>
+  0 - move forward <br><br>
+  1 - move backward <br><br>
+  2 - turn left <br><br>
+  3 - turn right <br><br>
+</p>
 
 ## Steps to run
 
