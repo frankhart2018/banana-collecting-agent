@@ -12,7 +12,7 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
   ```
   
   </li>
-  <li>Install the requirements:
+  <li>Install the requirements:<br><br>
   
   ```console
   user@programmer:~$ pip install requirements.txt
