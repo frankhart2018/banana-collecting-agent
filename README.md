@@ -92,4 +92,4 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
 
 <p>The following image provides a pictorial representation of the Q-Network model:</p>
 
-![Pictorial representation of Q-Network](images/q-network.png)
+<center>![Pictorial representation of Q-Network](images/q-network.png)</center>
