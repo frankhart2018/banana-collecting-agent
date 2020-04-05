@@ -110,10 +110,10 @@ This project is part of <b>Udacity's Deep Reinforcement Learning Nanodegree</b>
 |--------------------------|--------|-----------------------------------------------------------|
 | Buffer size              | 100000 | Maximum size of the replay buffer                         |
 | Batch size               | 64     | Batch size for sampling from replay buffer                |
-| Gamma ($\gamma$)         | 0.99   | Discount factor for calculating return                    |
-| Tau ($\tau$)             | 0.001  | Hyperparameter for soft update of target parameters       |
+| Gamma (\gamma)           | 0.99   | Discount factor for calculating return                    |
+| Tau (\tau)               | 0.001  | Hyperparameter for soft update of target parameters       |
 | Learning Rate ($\alpha$) | 0.0005 | Learning rate for the neural networks                     |
 | Update Every (C)         | 4      | Number of time steps after which soft update is performed |
-| Epsilon ($\epsilon$)     | 1.0    | For epsilon-greedy action selection                       |
+| Epsilon (\epsilon)       | 1.0    | For epsilon-greedy action selection                       |
 | Epsilon decay rate       | 0.995  | Rate by which epsilon decays after every episode          |
 | Epsilon minimum          | 0.01   | The minimum value of epsilon                              |
